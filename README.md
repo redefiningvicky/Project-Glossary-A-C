@@ -93,6 +93,34 @@
 <br>
 
 <h3>
+  🕊️
+  <a href="https://github.com/redefiningvicky/Dessups-The-Guardians-of-Peace">
+    Dessups: The Guardians of Peace
+  </a>
+</h3>
+
+<p>
+  A geographic analysis of Bhutan's Desuung
+  community service and national development initiatives.
+</p>
+
+<p>
+  <sub>August 2024 · ArcGIS Online, ArcGIS StoryMaps, Microsoft Excel</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Dessups-The-Guardians-of-Peace">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://arcg.is/11KOu80">
+    View StoryMaps
+  </a>
+</p>
+
+<br>
+
+<h3>
   🦢
   <a href="https://github.com/redefiningvicky/Eala-Dun-Eideann">
     Eala Dun Eideann
