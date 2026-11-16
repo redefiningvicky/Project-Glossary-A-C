@@ -33,6 +33,41 @@
 <br>
 
 <h3>
+  💌
+  <a href="https://github.com/redefiningvicky/Amortentia-Post">
+    Amortentia Post
+  </a>
+</h3>
+
+<p>
+  A magical chocolate shop exploring romance and love potions.
+</p>
+
+<p>
+  <sub>November 2026 · Lovable, ChatGPT, GitHub</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Amortentia-Post">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Amortentia-Post/blob/main/app-store/01-app-store.png">
+    View Display
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://redefiningvicky.github.io/Amortentia-Post/#/">
+    Launch App
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://redefiningvicky.github.io/Amortentia-Post/#/pitch?slide=1">
+    View Pitch
+  </a>
+</p>
+
+<br>
+
+<h3>
   🗓️
   <a href="https://github.com/redefiningvicky/ChatGPT-Response-Timeline">
     ChatGPT Response Timeline
