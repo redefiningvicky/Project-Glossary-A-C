@@ -153,6 +153,38 @@
 <br>
 
 <h3>
+  🧠
+  <a href="https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health">
+    Educational Attainment and Mental Health
+  </a>
+</h3>
+
+<p>
+  A Sacramento County study exploring the relationship
+  between educational attainment and mental health.
+</p>
+
+<p>
+  <sub>March 2024 · R, ArcGIS Online, ArcGIS StoryMaps</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://arcg.is/0LeCqz">
+    View StoryMaps
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health/blob/main/Code/Educational_Attainment_and_Mental_Health.Rmd">
+    View R Script
+  </a>
+</p>
+
+<br>
+
+<h3>
   🍉
   <a href="https://github.com/redefiningvicky/Food-Resources-for-UC-Davis-Students">
     Food Resources for UC Davis Students
