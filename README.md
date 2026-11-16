@@ -65,6 +65,33 @@
 <br>
 
 <h3>
+  🍉
+  <a href="https://github.com/redefiningvicky/Food-Resources-for-UC-Davis-Students">
+    Food Resources for UC Davis Students
+  </a>
+</h3>
+
+<p>
+  An interactive map identifying free food resources
+  for UC Davis students across nearby communities.
+</p>
+
+<p>
+  <sub>March 2025 · Google Maps, Canva</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Food-Resources-for-UC-Davis-Students">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://www.google.com/maps/d/u/0/edit?mid=1t1K7LJij3VG0_I-Iuf8NwHES3_MxRYg&amp;usp=sharing">
+    View Map
+  </a>
+</p>
+
+<br>
+
   ⛰️
   <a href="https://github.com/redefiningvicky/Frontier-50">
     Frontier 50
