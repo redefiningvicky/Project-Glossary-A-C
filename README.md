@@ -6,6 +6,33 @@
 </div>
 
 <h3>
+  🌲
+  <a href="https://github.com/redefiningvicky/AETHERCORE">
+    AETHERCORE
+  </a>
+</h3>
+
+<p>
+  A 10-second cinematic video bridging a photonic processor and forest habitat, illustrating their regenerative symbiosis.
+</p>
+
+<p>
+  <sub>November 2026 · Gemini, Github</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/AETHERCORE">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://redefiningvicky.github.io/AETHERCORE/">
+    View Video
+  </a>
+</p>
+
+<br>
+
+<h3>
   🗓️
   <a href="https://github.com/redefiningvicky/ChatGPT-Response-Timeline">
     ChatGPT Response Timeline
