@@ -93,6 +93,38 @@
 <br>
 
 <h3>
+  🦢
+  <a href="https://github.com/redefiningvicky/Eala-Dun-Eideann">
+    Eala Dun Eideann
+  </a>
+</h3>
+
+<p>
+  A multimedia website and interactive map
+  exploring Scotland's cultural and historical heritage.
+</p>
+
+<p>
+  <sub>July 2024 · Blogger, Google Maps</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Eala-Dun-Eideann">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://ealaduneideann.Blogger.com/">
+    View Website
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://maps.app.goo.gl/4zdEjw6ytKLdveuUA">
+    View Map
+  </a>
+</p>
+
+<br>
+
+<h3>
   🍉
   <a href="https://github.com/redefiningvicky/Food-Resources-for-UC-Davis-Students">
     Food Resources for UC Davis Students
