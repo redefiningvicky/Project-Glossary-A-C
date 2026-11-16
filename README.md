@@ -65,6 +65,34 @@
 <br>
 
 <h3>
+  🩺
+  <a href="https://github.com/redefiningvicky/Clinical-Consciousness-Status-Analysis">
+    Clinical Consciousness Status Analysis
+  </a>
+</h3>
+
+<p>
+  An interactive dashboard analyzing neurological
+  diagnoses and clinical interventions in California hospitals.
+</p>
+
+<p>
+  <sub>January 2026 · Tableau, Microsoft Excel</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Clinical-Consciousness-Status-Analysis">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://public.tableau.com/views/ClinicalConsciousnessStatusAnalysisforCaliforniaHospitals2024/Dashboard1">
+    View Dashboard
+  </a>
+</p>
+
+<br>
+
+<h3>
   🍉
   <a href="https://github.com/redefiningvicky/Food-Resources-for-UC-Davis-Students">
     Food Resources for UC Davis Students
