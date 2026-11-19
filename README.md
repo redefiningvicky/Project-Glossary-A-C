@@ -101,7 +101,7 @@
 
 <h3>
   🩺
-  <a href="https://github.com/redefiningvicky/Clinical-Consciousness-Status-Analysis">
+  <a href="https://github.com/redefiningvicky/Clinical-Consciousness-Status">
     Clinical Consciousness Status Analysis
   </a>
 </h3>
