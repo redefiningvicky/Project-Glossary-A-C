@@ -116,7 +116,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/redefiningvicky/Clinical-Consciousness-Status-Analysis">
+  <a href="https://github.com/redefiningvicky/Clinical-Consciousness-Status">
     View Project
   </a>
   &nbsp; • &nbsp;
